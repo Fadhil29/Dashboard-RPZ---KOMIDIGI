@@ -1,0 +1,8 @@
+{
+  "dashboardTitle": "Dashboard",
+  "rpzTitle": "RPZ - Response Policy Zone",
+  "labelTotalIsp": "Total ISP",
+  "labelTotalIp": "Total IP",
+  "labelTotalAxfr": "Total AXFR",
+  "labelTotalIxfr": "Total IXFR"
+}

@@ -1,0 +1,8 @@
+{
+  "dashboardTitle": "Dashboard",
+  "rtbhTitle": "RTBH - Remote Triggered Black Hole",
+  "labelTotalIsp": "Total ISP",
+  "labelTotalIp": "Total IP",
+  "labelTotalEstablished": "Total Established",
+  "labelTotalPassive": "Total Passive"
+}

@@ -1,0 +1,9 @@
+{
+    "dashboardTitle":  "Dashboard",
+    "rpzTitle":  "DNS Response Policy Zone",
+    "halamanKedua":  2,
+    "awalHalaman1":  1,
+    "akhirHalaman1":  15,
+    "awalHalaman2":  16,
+    "akhirHalaman2":  30
+}

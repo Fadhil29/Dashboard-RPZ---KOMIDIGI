@@ -1,0 +1,7 @@
+{
+  "dashboardTitle": "Dashboard",
+  "rpzTitle": "DNS Response Policy Zone",
+  "metodeDefault": "Semua",
+  "metodeAxfr": "AXFR",
+  "metodeIxfr": "IXFR"
+}

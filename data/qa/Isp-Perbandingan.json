@@ -1,0 +1,10 @@
+{
+  "dashboardTitle": "Dashboard",
+  "judul": "Perbandingan AS Number",
+  "subjudul": "Integrasi Penapisan vs data RTBH",
+  "judulTabel": "Tabel Perbandingan",
+  "statusOpsi": ["Cocok", "Tidak Cocok", "Tidak Ditemukan", "Tidak Terdaftar"],
+  "ipTidakValid": "abc",
+  "ispTidakAda": "ZZZ ISP",
+  "perPage": 15
+}

@@ -1,0 +1,11 @@
+{
+  "dashboardTitle": "Dashboard",
+  "menuTitle": "Manajemen Pengguna",
+  "title": "Tambah Pengguna",
+  "konfirmasiTitle": "Simpan Pengguna?",
+  "suksesTitle": "Berhasil",
+  "nama": "Testing",
+  "email": "Testingadmin@gmail.com",
+  "password": "@Testing123",
+  "role": "Super Admin"
+}

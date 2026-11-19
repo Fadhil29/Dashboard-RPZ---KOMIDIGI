@@ -1,0 +1,6 @@
+{
+  "dashboardTitle": "Dashboard",
+  "rpzTitle": "DNS Response Policy Zone",
+  "metodeAxfr": "AXFR",
+  "metodeIxfr": "IXFR"
+}

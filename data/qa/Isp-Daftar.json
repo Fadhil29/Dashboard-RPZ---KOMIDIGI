@@ -1,0 +1,20 @@
+{
+  "dashboardTitle": "Dashboard",
+  "judul": "Daftar ISP Terdaftar",
+  "subjudul": "Statistik real-time pemantauan ISP secara nasional.",
+  "kolom": ["NAMA ISP", "AS NUMBER", "KOTA/KAB", "PROVINSI", "LAYANAN"],
+  "ispLengkap": "airtime",
+  "asnIsp": "AS136861",
+  "kotaIsp": "KOTA TANGERANG SELATAN",
+  "provinsiIsp": "Banten",
+  "layananIsp": "RPZ Only",
+  "namaSebagian": "Corporatama",
+  "namaKombinasi": "airtime",
+  "provinsiKombinasi": "Banten",
+  "namaHurufKecil": "AIRTIME",
+  "provinsiJakarta": "Daerah Khusus Ibukota Jakarta",
+  "provinsiJakartaTabel": "Dki Jakarta",
+  "provinsiJabar": "Jawa Barat",
+  "ispTidakAda": "ZZZ ISP",
+  "perPage": 15
+}
