@@ -14,4 +14,9 @@ export class DashboardPage {
   tombolKeluar() {
     return this.page.getByRole('button', { name: 'Keluar' });
   }
+
+  async keluar() {
+    await this.tombolKeluar().click();
+    await this.page.getByRole('dialog').getByRole('button', { name: 'Keluar' }).click();
+  }
 }

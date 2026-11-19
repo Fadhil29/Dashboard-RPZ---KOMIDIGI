@@ -7,8 +7,12 @@ export class LoginPage {
     await this.page.goto('/login');
   }
 
+  kolomEmail() {
+    return this.page.getByRole('textbox', { name: 'nama@komdigi.go.id' });
+  }
+
   async isiEmail(email) {
-    await this.page.getByRole('textbox', { name: 'nama@komdigi.go.id' }).fill(email);
+    await this.kolomEmail().fill(email);
   }
 
   async isiPassword(password) {
@@ -17,6 +21,12 @@ export class LoginPage {
 
   async klikMasuk() {
     await this.page.getByRole('button', { name: 'Masuk' }).click();
+  }
+
+  async login(email, password) {
+    await this.isiEmail(email);
+    await this.isiPassword(password);
+    await this.klikMasuk();
   }
 
   // Pakai sesi dari globalSetup (.auth). Login lewat UI hanya bila sesi tidak valid.
